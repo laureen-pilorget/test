@@ -1,0 +1,16 @@
+p {
+    font-size: 3em;
+    color: bisque;
+}
+
+h1 {
+    color: burlywood;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    padding-bottom: 10px;
+}
